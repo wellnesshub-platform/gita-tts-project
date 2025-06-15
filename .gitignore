@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+*.json
+.DS_Store
+*.tfstate*
+.terraform/
+*.log
+*.mp3
